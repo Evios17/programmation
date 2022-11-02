@@ -299,56 +299,17 @@ tp3_exo8/fast:
 .PHONY : tp3_exo8/fast
 
 #=============================================================================
-# Target rules for targets named tp4_exo8
+# Target rules for targets named tp3_exo5
 
 # Build rule for target.
-tp4_exo8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp4_exo8
-.PHONY : tp4_exo8
+tp3_exo5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo5
+.PHONY : tp3_exo5
 
 # fast build rule for target.
-tp4_exo8/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo8.dir/build.make src/CMakeFiles/tp4_exo8.dir/build
-.PHONY : tp4_exo8/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo8
-
-# Build rule for target.
-tp1_exo8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo8
-.PHONY : tp1_exo8
-
-# fast build rule for target.
-tp1_exo8/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo8.dir/build.make src/CMakeFiles/tp1_exo8.dir/build
-.PHONY : tp1_exo8/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo7
-
-# Build rule for target.
-tp1_exo7: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo7
-.PHONY : tp1_exo7
-
-# fast build rule for target.
-tp1_exo7/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo7.dir/build.make src/CMakeFiles/tp1_exo7.dir/build
-.PHONY : tp1_exo7/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo5
-
-# Build rule for target.
-tp1_exo5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo5
-.PHONY : tp1_exo5
-
-# fast build rule for target.
-tp1_exo5/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo5.dir/build.make src/CMakeFiles/tp1_exo5.dir/build
-.PHONY : tp1_exo5/fast
+tp3_exo5/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo5.dir/build.make src/CMakeFiles/tp3_exo5.dir/build
+.PHONY : tp3_exo5/fast
 
 #=============================================================================
 # Target rules for targets named tp5_exo4
@@ -416,19 +377,6 @@ tp3_exo1/fast:
 .PHONY : tp3_exo1/fast
 
 #=============================================================================
-# Target rules for targets named tp3_exo11
-
-# Build rule for target.
-tp3_exo11: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo11
-.PHONY : tp3_exo11
-
-# fast build rule for target.
-tp3_exo11/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo11.dir/build.make src/CMakeFiles/tp3_exo11.dir/build
-.PHONY : tp3_exo11/fast
-
-#=============================================================================
 # Target rules for targets named tp1_exo3
 
 # Build rule for target.
@@ -442,6 +390,32 @@ tp1_exo3/fast:
 .PHONY : tp1_exo3/fast
 
 #=============================================================================
+# Target rules for targets named tp3_exo6
+
+# Build rule for target.
+tp3_exo6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo6
+.PHONY : tp3_exo6
+
+# fast build rule for target.
+tp3_exo6/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo6.dir/build.make src/CMakeFiles/tp3_exo6.dir/build
+.PHONY : tp3_exo6/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo1
+
+# Build rule for target.
+tp1_exo1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo1
+.PHONY : tp1_exo1
+
+# fast build rule for target.
+tp1_exo1/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo1.dir/build.make src/CMakeFiles/tp1_exo1.dir/build
+.PHONY : tp1_exo1/fast
+
+#=============================================================================
 # Target rules for targets named tp3_exo3
 
 # Build rule for target.
@@ -453,110 +427,6 @@ tp3_exo3: cmake_check_build_system
 tp3_exo3/fast:
 	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo3.dir/build.make src/CMakeFiles/tp3_exo3.dir/build
 .PHONY : tp3_exo3/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo9
-
-# Build rule for target.
-tp1_exo9: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo9
-.PHONY : tp1_exo9
-
-# fast build rule for target.
-tp1_exo9/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo9.dir/build.make src/CMakeFiles/tp1_exo9.dir/build
-.PHONY : tp1_exo9/fast
-
-#=============================================================================
-# Target rules for targets named return
-
-# Build rule for target.
-return: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 return
-.PHONY : return
-
-# fast build rule for target.
-return/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/return.dir/build.make src/CMakeFiles/return.dir/build
-.PHONY : return/fast
-
-#=============================================================================
-# Target rules for targets named tp2_exo2
-
-# Build rule for target.
-tp2_exo2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp2_exo2
-.PHONY : tp2_exo2
-
-# fast build rule for target.
-tp2_exo2/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo2.dir/build.make src/CMakeFiles/tp2_exo2.dir/build
-.PHONY : tp2_exo2/fast
-
-#=============================================================================
-# Target rules for targets named tp2_exo4
-
-# Build rule for target.
-tp2_exo4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp2_exo4
-.PHONY : tp2_exo4
-
-# fast build rule for target.
-tp2_exo4/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo4.dir/build.make src/CMakeFiles/tp2_exo4.dir/build
-.PHONY : tp2_exo4/fast
-
-#=============================================================================
-# Target rules for targets named tp5_exo2
-
-# Build rule for target.
-tp5_exo2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp5_exo2
-.PHONY : tp5_exo2
-
-# fast build rule for target.
-tp5_exo2/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp5_exo2.dir/build.make src/CMakeFiles/tp5_exo2.dir/build
-.PHONY : tp5_exo2/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo10
-
-# Build rule for target.
-tp1_exo10: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo10
-.PHONY : tp1_exo10
-
-# fast build rule for target.
-tp1_exo10/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo10.dir/build.make src/CMakeFiles/tp1_exo10.dir/build
-.PHONY : tp1_exo10/fast
-
-#=============================================================================
-# Target rules for targets named tp4_exo12
-
-# Build rule for target.
-tp4_exo12: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp4_exo12
-.PHONY : tp4_exo12
-
-# fast build rule for target.
-tp4_exo12/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo12.dir/build.make src/CMakeFiles/tp4_exo12.dir/build
-.PHONY : tp4_exo12/fast
-
-#=============================================================================
-# Target rules for targets named helloworld
-
-# Build rule for target.
-helloworld: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 helloworld
-.PHONY : helloworld
-
-# fast build rule for target.
-helloworld/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/helloworld.dir/build.make src/CMakeFiles/helloworld.dir/build
-.PHONY : helloworld/fast
 
 #=============================================================================
 # Target rules for targets named tp4_exo1
@@ -635,6 +505,214 @@ tp2_exo1: cmake_check_build_system
 tp2_exo1/fast:
 	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo1.dir/build.make src/CMakeFiles/tp2_exo1.dir/build
 .PHONY : tp2_exo1/fast
+
+#=============================================================================
+# Target rules for targets named server
+
+# Build rule for target.
+server: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 server
+.PHONY : server
+
+# fast build rule for target.
+server/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/server.dir/build.make src/CMakeFiles/server.dir/build
+.PHONY : server/fast
+
+#=============================================================================
+# Target rules for targets named tp2_exo2
+
+# Build rule for target.
+tp2_exo2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp2_exo2
+.PHONY : tp2_exo2
+
+# fast build rule for target.
+tp2_exo2/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo2.dir/build.make src/CMakeFiles/tp2_exo2.dir/build
+.PHONY : tp2_exo2/fast
+
+#=============================================================================
+# Target rules for targets named tp2_exo4
+
+# Build rule for target.
+tp2_exo4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp2_exo4
+.PHONY : tp2_exo4
+
+# fast build rule for target.
+tp2_exo4/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo4.dir/build.make src/CMakeFiles/tp2_exo4.dir/build
+.PHONY : tp2_exo4/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo5
+
+# Build rule for target.
+tp1_exo5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo5
+.PHONY : tp1_exo5
+
+# fast build rule for target.
+tp1_exo5/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo5.dir/build.make src/CMakeFiles/tp1_exo5.dir/build
+.PHONY : tp1_exo5/fast
+
+#=============================================================================
+# Target rules for targets named return
+
+# Build rule for target.
+return: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 return
+.PHONY : return
+
+# fast build rule for target.
+return/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/return.dir/build.make src/CMakeFiles/return.dir/build
+.PHONY : return/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo9
+
+# Build rule for target.
+tp1_exo9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo9
+.PHONY : tp1_exo9
+
+# fast build rule for target.
+tp1_exo9/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo9.dir/build.make src/CMakeFiles/tp1_exo9.dir/build
+.PHONY : tp1_exo9/fast
+
+#=============================================================================
+# Target rules for targets named tp3_exo11
+
+# Build rule for target.
+tp3_exo11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo11
+.PHONY : tp3_exo11
+
+# fast build rule for target.
+tp3_exo11/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo11.dir/build.make src/CMakeFiles/tp3_exo11.dir/build
+.PHONY : tp3_exo11/fast
+
+#=============================================================================
+# Target rules for targets named online_bataille-navale
+
+# Build rule for target.
+online_bataille-navale: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 online_bataille-navale
+.PHONY : online_bataille-navale
+
+# fast build rule for target.
+online_bataille-navale/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/online_bataille-navale.dir/build.make src/CMakeFiles/online_bataille-navale.dir/build
+.PHONY : online_bataille-navale/fast
+
+#=============================================================================
+# Target rules for targets named tp5_exo2
+
+# Build rule for target.
+tp5_exo2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp5_exo2
+.PHONY : tp5_exo2
+
+# fast build rule for target.
+tp5_exo2/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp5_exo2.dir/build.make src/CMakeFiles/tp5_exo2.dir/build
+.PHONY : tp5_exo2/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo10
+
+# Build rule for target.
+tp1_exo10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo10
+.PHONY : tp1_exo10
+
+# fast build rule for target.
+tp1_exo10/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo10.dir/build.make src/CMakeFiles/tp1_exo10.dir/build
+.PHONY : tp1_exo10/fast
+
+#=============================================================================
+# Target rules for targets named tp4_exo12
+
+# Build rule for target.
+tp4_exo12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp4_exo12
+.PHONY : tp4_exo12
+
+# fast build rule for target.
+tp4_exo12/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo12.dir/build.make src/CMakeFiles/tp4_exo12.dir/build
+.PHONY : tp4_exo12/fast
+
+#=============================================================================
+# Target rules for targets named helloworld
+
+# Build rule for target.
+helloworld: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 helloworld
+.PHONY : helloworld
+
+# fast build rule for target.
+helloworld/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/helloworld.dir/build.make src/CMakeFiles/helloworld.dir/build
+.PHONY : helloworld/fast
+
+#=============================================================================
+# Target rules for targets named client
+
+# Build rule for target.
+client: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 client
+.PHONY : client
+
+# fast build rule for target.
+client/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/client.dir/build.make src/CMakeFiles/client.dir/build
+.PHONY : client/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo7
+
+# Build rule for target.
+tp1_exo7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo7
+.PHONY : tp1_exo7
+
+# fast build rule for target.
+tp1_exo7/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo7.dir/build.make src/CMakeFiles/tp1_exo7.dir/build
+.PHONY : tp1_exo7/fast
+
+#=============================================================================
+# Target rules for targets named tp4_exo8
+
+# Build rule for target.
+tp4_exo8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp4_exo8
+.PHONY : tp4_exo8
+
+# fast build rule for target.
+tp4_exo8/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo8.dir/build.make src/CMakeFiles/tp4_exo8.dir/build
+.PHONY : tp4_exo8/fast
+
+#=============================================================================
+# Target rules for targets named tp1_exo8
+
+# Build rule for target.
+tp1_exo8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo8
+.PHONY : tp1_exo8
+
+# fast build rule for target.
+tp1_exo8/fast:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo8.dir/build.make src/CMakeFiles/tp1_exo8.dir/build
+.PHONY : tp1_exo8/fast
 
 #=============================================================================
 # Target rules for targets named tp4_exo3
@@ -767,19 +845,6 @@ tp4_exo14/fast:
 .PHONY : tp4_exo14/fast
 
 #=============================================================================
-# Target rules for targets named exemple_simple_bataille-navalle
-
-# Build rule for target.
-exemple_simple_bataille-navalle: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exemple_simple_bataille-navalle
-.PHONY : exemple_simple_bataille-navalle
-
-# fast build rule for target.
-exemple_simple_bataille-navalle/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/exemple_simple_bataille-navalle.dir/build.make src/CMakeFiles/exemple_simple_bataille-navalle.dir/build
-.PHONY : exemple_simple_bataille-navalle/fast
-
-#=============================================================================
 # Target rules for targets named tp3_exo4
 
 # Build rule for target.
@@ -792,45 +857,6 @@ tp3_exo4/fast:
 	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo4.dir/build.make src/CMakeFiles/tp3_exo4.dir/build
 .PHONY : tp3_exo4/fast
 
-#=============================================================================
-# Target rules for targets named tp3_exo5
-
-# Build rule for target.
-tp3_exo5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo5
-.PHONY : tp3_exo5
-
-# fast build rule for target.
-tp3_exo5/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo5.dir/build.make src/CMakeFiles/tp3_exo5.dir/build
-.PHONY : tp3_exo5/fast
-
-#=============================================================================
-# Target rules for targets named tp1_exo1
-
-# Build rule for target.
-tp1_exo1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp1_exo1
-.PHONY : tp1_exo1
-
-# fast build rule for target.
-tp1_exo1/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo1.dir/build.make src/CMakeFiles/tp1_exo1.dir/build
-.PHONY : tp1_exo1/fast
-
-#=============================================================================
-# Target rules for targets named tp3_exo6
-
-# Build rule for target.
-tp3_exo6: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tp3_exo6
-.PHONY : tp3_exo6
-
-# fast build rule for target.
-tp3_exo6/fast:
-	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo6.dir/build.make src/CMakeFiles/tp3_exo6.dir/build
-.PHONY : tp3_exo6/fast
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -839,9 +865,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... exemple_simple_bataille-navalle"
+	@echo "... client"
 	@echo "... helloworld"
+	@echo "... online_bataille-navale"
 	@echo "... return"
+	@echo "... server"
 	@echo "... test"
 	@echo "... tp1_exo1"
 	@echo "... tp1_exo10"

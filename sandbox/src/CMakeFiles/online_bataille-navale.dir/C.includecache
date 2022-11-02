@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Documents/programmation/sandbox/src/online_bataille-navale.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+

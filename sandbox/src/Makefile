@@ -325,64 +325,19 @@ tp3_exo8/fast:
 .PHONY : tp3_exo8/fast
 
 # Convenience name for target.
-src/CMakeFiles/tp4_exo8.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp4_exo8.dir/rule
-.PHONY : src/CMakeFiles/tp4_exo8.dir/rule
+src/CMakeFiles/tp3_exo5.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo5.dir/rule
+.PHONY : src/CMakeFiles/tp3_exo5.dir/rule
 
 # Convenience name for target.
-tp4_exo8: src/CMakeFiles/tp4_exo8.dir/rule
+tp3_exo5: src/CMakeFiles/tp3_exo5.dir/rule
 
-.PHONY : tp4_exo8
+.PHONY : tp3_exo5
 
 # fast build rule for target.
-tp4_exo8/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo8.dir/build.make src/CMakeFiles/tp4_exo8.dir/build
-.PHONY : tp4_exo8/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo8.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo8.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo8.dir/rule
-
-# Convenience name for target.
-tp1_exo8: src/CMakeFiles/tp1_exo8.dir/rule
-
-.PHONY : tp1_exo8
-
-# fast build rule for target.
-tp1_exo8/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo8.dir/build.make src/CMakeFiles/tp1_exo8.dir/build
-.PHONY : tp1_exo8/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo7.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo7.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo7.dir/rule
-
-# Convenience name for target.
-tp1_exo7: src/CMakeFiles/tp1_exo7.dir/rule
-
-.PHONY : tp1_exo7
-
-# fast build rule for target.
-tp1_exo7/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo7.dir/build.make src/CMakeFiles/tp1_exo7.dir/build
-.PHONY : tp1_exo7/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo5.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo5.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo5.dir/rule
-
-# Convenience name for target.
-tp1_exo5: src/CMakeFiles/tp1_exo5.dir/rule
-
-.PHONY : tp1_exo5
-
-# fast build rule for target.
-tp1_exo5/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo5.dir/build.make src/CMakeFiles/tp1_exo5.dir/build
-.PHONY : tp1_exo5/fast
+tp3_exo5/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo5.dir/build.make src/CMakeFiles/tp3_exo5.dir/build
+.PHONY : tp3_exo5/fast
 
 # Convenience name for target.
 src/CMakeFiles/tp5_exo4.dir/rule:
@@ -460,21 +415,6 @@ tp3_exo1/fast:
 .PHONY : tp3_exo1/fast
 
 # Convenience name for target.
-src/CMakeFiles/tp3_exo11.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo11.dir/rule
-.PHONY : src/CMakeFiles/tp3_exo11.dir/rule
-
-# Convenience name for target.
-tp3_exo11: src/CMakeFiles/tp3_exo11.dir/rule
-
-.PHONY : tp3_exo11
-
-# fast build rule for target.
-tp3_exo11/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo11.dir/build.make src/CMakeFiles/tp3_exo11.dir/build
-.PHONY : tp3_exo11/fast
-
-# Convenience name for target.
 src/CMakeFiles/tp1_exo3.dir/rule:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo3.dir/rule
 .PHONY : src/CMakeFiles/tp1_exo3.dir/rule
@@ -490,6 +430,36 @@ tp1_exo3/fast:
 .PHONY : tp1_exo3/fast
 
 # Convenience name for target.
+src/CMakeFiles/tp3_exo6.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo6.dir/rule
+.PHONY : src/CMakeFiles/tp3_exo6.dir/rule
+
+# Convenience name for target.
+tp3_exo6: src/CMakeFiles/tp3_exo6.dir/rule
+
+.PHONY : tp3_exo6
+
+# fast build rule for target.
+tp3_exo6/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo6.dir/build.make src/CMakeFiles/tp3_exo6.dir/build
+.PHONY : tp3_exo6/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo1.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo1.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo1.dir/rule
+
+# Convenience name for target.
+tp1_exo1: src/CMakeFiles/tp1_exo1.dir/rule
+
+.PHONY : tp1_exo1
+
+# fast build rule for target.
+tp1_exo1/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo1.dir/build.make src/CMakeFiles/tp1_exo1.dir/build
+.PHONY : tp1_exo1/fast
+
+# Convenience name for target.
 src/CMakeFiles/tp3_exo3.dir/rule:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo3.dir/rule
 .PHONY : src/CMakeFiles/tp3_exo3.dir/rule
@@ -503,126 +473,6 @@ tp3_exo3: src/CMakeFiles/tp3_exo3.dir/rule
 tp3_exo3/fast:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo3.dir/build.make src/CMakeFiles/tp3_exo3.dir/build
 .PHONY : tp3_exo3/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo9.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo9.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo9.dir/rule
-
-# Convenience name for target.
-tp1_exo9: src/CMakeFiles/tp1_exo9.dir/rule
-
-.PHONY : tp1_exo9
-
-# fast build rule for target.
-tp1_exo9/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo9.dir/build.make src/CMakeFiles/tp1_exo9.dir/build
-.PHONY : tp1_exo9/fast
-
-# Convenience name for target.
-src/CMakeFiles/return.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/return.dir/rule
-.PHONY : src/CMakeFiles/return.dir/rule
-
-# Convenience name for target.
-return: src/CMakeFiles/return.dir/rule
-
-.PHONY : return
-
-# fast build rule for target.
-return/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/return.dir/build.make src/CMakeFiles/return.dir/build
-.PHONY : return/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp2_exo2.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp2_exo2.dir/rule
-.PHONY : src/CMakeFiles/tp2_exo2.dir/rule
-
-# Convenience name for target.
-tp2_exo2: src/CMakeFiles/tp2_exo2.dir/rule
-
-.PHONY : tp2_exo2
-
-# fast build rule for target.
-tp2_exo2/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo2.dir/build.make src/CMakeFiles/tp2_exo2.dir/build
-.PHONY : tp2_exo2/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp2_exo4.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp2_exo4.dir/rule
-.PHONY : src/CMakeFiles/tp2_exo4.dir/rule
-
-# Convenience name for target.
-tp2_exo4: src/CMakeFiles/tp2_exo4.dir/rule
-
-.PHONY : tp2_exo4
-
-# fast build rule for target.
-tp2_exo4/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo4.dir/build.make src/CMakeFiles/tp2_exo4.dir/build
-.PHONY : tp2_exo4/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp5_exo2.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp5_exo2.dir/rule
-.PHONY : src/CMakeFiles/tp5_exo2.dir/rule
-
-# Convenience name for target.
-tp5_exo2: src/CMakeFiles/tp5_exo2.dir/rule
-
-.PHONY : tp5_exo2
-
-# fast build rule for target.
-tp5_exo2/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp5_exo2.dir/build.make src/CMakeFiles/tp5_exo2.dir/build
-.PHONY : tp5_exo2/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo10.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo10.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo10.dir/rule
-
-# Convenience name for target.
-tp1_exo10: src/CMakeFiles/tp1_exo10.dir/rule
-
-.PHONY : tp1_exo10
-
-# fast build rule for target.
-tp1_exo10/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo10.dir/build.make src/CMakeFiles/tp1_exo10.dir/build
-.PHONY : tp1_exo10/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp4_exo12.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp4_exo12.dir/rule
-.PHONY : src/CMakeFiles/tp4_exo12.dir/rule
-
-# Convenience name for target.
-tp4_exo12: src/CMakeFiles/tp4_exo12.dir/rule
-
-.PHONY : tp4_exo12
-
-# fast build rule for target.
-tp4_exo12/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo12.dir/build.make src/CMakeFiles/tp4_exo12.dir/build
-.PHONY : tp4_exo12/fast
-
-# Convenience name for target.
-src/CMakeFiles/helloworld.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/helloworld.dir/rule
-.PHONY : src/CMakeFiles/helloworld.dir/rule
-
-# Convenience name for target.
-helloworld: src/CMakeFiles/helloworld.dir/rule
-
-.PHONY : helloworld
-
-# fast build rule for target.
-helloworld/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/helloworld.dir/build.make src/CMakeFiles/helloworld.dir/build
-.PHONY : helloworld/fast
 
 # Convenience name for target.
 src/CMakeFiles/tp4_exo1.dir/rule:
@@ -713,6 +563,246 @@ tp2_exo1: src/CMakeFiles/tp2_exo1.dir/rule
 tp2_exo1/fast:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo1.dir/build.make src/CMakeFiles/tp2_exo1.dir/build
 .PHONY : tp2_exo1/fast
+
+# Convenience name for target.
+src/CMakeFiles/server.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/server.dir/rule
+.PHONY : src/CMakeFiles/server.dir/rule
+
+# Convenience name for target.
+server: src/CMakeFiles/server.dir/rule
+
+.PHONY : server
+
+# fast build rule for target.
+server/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/server.dir/build.make src/CMakeFiles/server.dir/build
+.PHONY : server/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp2_exo2.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp2_exo2.dir/rule
+.PHONY : src/CMakeFiles/tp2_exo2.dir/rule
+
+# Convenience name for target.
+tp2_exo2: src/CMakeFiles/tp2_exo2.dir/rule
+
+.PHONY : tp2_exo2
+
+# fast build rule for target.
+tp2_exo2/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo2.dir/build.make src/CMakeFiles/tp2_exo2.dir/build
+.PHONY : tp2_exo2/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp2_exo4.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp2_exo4.dir/rule
+.PHONY : src/CMakeFiles/tp2_exo4.dir/rule
+
+# Convenience name for target.
+tp2_exo4: src/CMakeFiles/tp2_exo4.dir/rule
+
+.PHONY : tp2_exo4
+
+# fast build rule for target.
+tp2_exo4/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp2_exo4.dir/build.make src/CMakeFiles/tp2_exo4.dir/build
+.PHONY : tp2_exo4/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo5.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo5.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo5.dir/rule
+
+# Convenience name for target.
+tp1_exo5: src/CMakeFiles/tp1_exo5.dir/rule
+
+.PHONY : tp1_exo5
+
+# fast build rule for target.
+tp1_exo5/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo5.dir/build.make src/CMakeFiles/tp1_exo5.dir/build
+.PHONY : tp1_exo5/fast
+
+# Convenience name for target.
+src/CMakeFiles/return.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/return.dir/rule
+.PHONY : src/CMakeFiles/return.dir/rule
+
+# Convenience name for target.
+return: src/CMakeFiles/return.dir/rule
+
+.PHONY : return
+
+# fast build rule for target.
+return/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/return.dir/build.make src/CMakeFiles/return.dir/build
+.PHONY : return/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo9.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo9.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo9.dir/rule
+
+# Convenience name for target.
+tp1_exo9: src/CMakeFiles/tp1_exo9.dir/rule
+
+.PHONY : tp1_exo9
+
+# fast build rule for target.
+tp1_exo9/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo9.dir/build.make src/CMakeFiles/tp1_exo9.dir/build
+.PHONY : tp1_exo9/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp3_exo11.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo11.dir/rule
+.PHONY : src/CMakeFiles/tp3_exo11.dir/rule
+
+# Convenience name for target.
+tp3_exo11: src/CMakeFiles/tp3_exo11.dir/rule
+
+.PHONY : tp3_exo11
+
+# fast build rule for target.
+tp3_exo11/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo11.dir/build.make src/CMakeFiles/tp3_exo11.dir/build
+.PHONY : tp3_exo11/fast
+
+# Convenience name for target.
+src/CMakeFiles/online_bataille-navale.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/online_bataille-navale.dir/rule
+.PHONY : src/CMakeFiles/online_bataille-navale.dir/rule
+
+# Convenience name for target.
+online_bataille-navale: src/CMakeFiles/online_bataille-navale.dir/rule
+
+.PHONY : online_bataille-navale
+
+# fast build rule for target.
+online_bataille-navale/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/online_bataille-navale.dir/build.make src/CMakeFiles/online_bataille-navale.dir/build
+.PHONY : online_bataille-navale/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp5_exo2.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp5_exo2.dir/rule
+.PHONY : src/CMakeFiles/tp5_exo2.dir/rule
+
+# Convenience name for target.
+tp5_exo2: src/CMakeFiles/tp5_exo2.dir/rule
+
+.PHONY : tp5_exo2
+
+# fast build rule for target.
+tp5_exo2/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp5_exo2.dir/build.make src/CMakeFiles/tp5_exo2.dir/build
+.PHONY : tp5_exo2/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo10.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo10.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo10.dir/rule
+
+# Convenience name for target.
+tp1_exo10: src/CMakeFiles/tp1_exo10.dir/rule
+
+.PHONY : tp1_exo10
+
+# fast build rule for target.
+tp1_exo10/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo10.dir/build.make src/CMakeFiles/tp1_exo10.dir/build
+.PHONY : tp1_exo10/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp4_exo12.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp4_exo12.dir/rule
+.PHONY : src/CMakeFiles/tp4_exo12.dir/rule
+
+# Convenience name for target.
+tp4_exo12: src/CMakeFiles/tp4_exo12.dir/rule
+
+.PHONY : tp4_exo12
+
+# fast build rule for target.
+tp4_exo12/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo12.dir/build.make src/CMakeFiles/tp4_exo12.dir/build
+.PHONY : tp4_exo12/fast
+
+# Convenience name for target.
+src/CMakeFiles/helloworld.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/helloworld.dir/rule
+.PHONY : src/CMakeFiles/helloworld.dir/rule
+
+# Convenience name for target.
+helloworld: src/CMakeFiles/helloworld.dir/rule
+
+.PHONY : helloworld
+
+# fast build rule for target.
+helloworld/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/helloworld.dir/build.make src/CMakeFiles/helloworld.dir/build
+.PHONY : helloworld/fast
+
+# Convenience name for target.
+src/CMakeFiles/client.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/client.dir/rule
+.PHONY : src/CMakeFiles/client.dir/rule
+
+# Convenience name for target.
+client: src/CMakeFiles/client.dir/rule
+
+.PHONY : client
+
+# fast build rule for target.
+client/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/client.dir/build.make src/CMakeFiles/client.dir/build
+.PHONY : client/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo7.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo7.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo7.dir/rule
+
+# Convenience name for target.
+tp1_exo7: src/CMakeFiles/tp1_exo7.dir/rule
+
+.PHONY : tp1_exo7
+
+# fast build rule for target.
+tp1_exo7/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo7.dir/build.make src/CMakeFiles/tp1_exo7.dir/build
+.PHONY : tp1_exo7/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp4_exo8.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp4_exo8.dir/rule
+.PHONY : src/CMakeFiles/tp4_exo8.dir/rule
+
+# Convenience name for target.
+tp4_exo8: src/CMakeFiles/tp4_exo8.dir/rule
+
+.PHONY : tp4_exo8
+
+# fast build rule for target.
+tp4_exo8/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp4_exo8.dir/build.make src/CMakeFiles/tp4_exo8.dir/build
+.PHONY : tp4_exo8/fast
+
+# Convenience name for target.
+src/CMakeFiles/tp1_exo8.dir/rule:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo8.dir/rule
+.PHONY : src/CMakeFiles/tp1_exo8.dir/rule
+
+# Convenience name for target.
+tp1_exo8: src/CMakeFiles/tp1_exo8.dir/rule
+
+.PHONY : tp1_exo8
+
+# fast build rule for target.
+tp1_exo8/fast:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo8.dir/build.make src/CMakeFiles/tp1_exo8.dir/build
+.PHONY : tp1_exo8/fast
 
 # Convenience name for target.
 src/CMakeFiles/tp4_exo3.dir/rule:
@@ -865,21 +955,6 @@ tp4_exo14/fast:
 .PHONY : tp4_exo14/fast
 
 # Convenience name for target.
-src/CMakeFiles/exemple_simple_bataille-navalle.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/exemple_simple_bataille-navalle.dir/rule
-.PHONY : src/CMakeFiles/exemple_simple_bataille-navalle.dir/rule
-
-# Convenience name for target.
-exemple_simple_bataille-navalle: src/CMakeFiles/exemple_simple_bataille-navalle.dir/rule
-
-.PHONY : exemple_simple_bataille-navalle
-
-# fast build rule for target.
-exemple_simple_bataille-navalle/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/exemple_simple_bataille-navalle.dir/build.make src/CMakeFiles/exemple_simple_bataille-navalle.dir/build
-.PHONY : exemple_simple_bataille-navalle/fast
-
-# Convenience name for target.
 src/CMakeFiles/tp3_exo4.dir/rule:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo4.dir/rule
 .PHONY : src/CMakeFiles/tp3_exo4.dir/rule
@@ -894,77 +969,32 @@ tp3_exo4/fast:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo4.dir/build.make src/CMakeFiles/tp3_exo4.dir/build
 .PHONY : tp3_exo4/fast
 
-# Convenience name for target.
-src/CMakeFiles/tp3_exo5.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo5.dir/rule
-.PHONY : src/CMakeFiles/tp3_exo5.dir/rule
+client.o: client.c.o
 
-# Convenience name for target.
-tp3_exo5: src/CMakeFiles/tp3_exo5.dir/rule
-
-.PHONY : tp3_exo5
-
-# fast build rule for target.
-tp3_exo5/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo5.dir/build.make src/CMakeFiles/tp3_exo5.dir/build
-.PHONY : tp3_exo5/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp1_exo1.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp1_exo1.dir/rule
-.PHONY : src/CMakeFiles/tp1_exo1.dir/rule
-
-# Convenience name for target.
-tp1_exo1: src/CMakeFiles/tp1_exo1.dir/rule
-
-.PHONY : tp1_exo1
-
-# fast build rule for target.
-tp1_exo1/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp1_exo1.dir/build.make src/CMakeFiles/tp1_exo1.dir/build
-.PHONY : tp1_exo1/fast
-
-# Convenience name for target.
-src/CMakeFiles/tp3_exo6.dir/rule:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/tp3_exo6.dir/rule
-.PHONY : src/CMakeFiles/tp3_exo6.dir/rule
-
-# Convenience name for target.
-tp3_exo6: src/CMakeFiles/tp3_exo6.dir/rule
-
-.PHONY : tp3_exo6
-
-# fast build rule for target.
-tp3_exo6/fast:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/tp3_exo6.dir/build.make src/CMakeFiles/tp3_exo6.dir/build
-.PHONY : tp3_exo6/fast
-
-exemple_simple_bataille-navalle.o: exemple_simple_bataille-navalle.c.o
-
-.PHONY : exemple_simple_bataille-navalle.o
+.PHONY : client.o
 
 # target to build an object file
-exemple_simple_bataille-navalle.c.o:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/exemple_simple_bataille-navalle.dir/build.make src/CMakeFiles/exemple_simple_bataille-navalle.dir/exemple_simple_bataille-navalle.c.o
-.PHONY : exemple_simple_bataille-navalle.c.o
+client.c.o:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/client.dir/build.make src/CMakeFiles/client.dir/client.c.o
+.PHONY : client.c.o
 
-exemple_simple_bataille-navalle.i: exemple_simple_bataille-navalle.c.i
+client.i: client.c.i
 
-.PHONY : exemple_simple_bataille-navalle.i
+.PHONY : client.i
 
 # target to preprocess a source file
-exemple_simple_bataille-navalle.c.i:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/exemple_simple_bataille-navalle.dir/build.make src/CMakeFiles/exemple_simple_bataille-navalle.dir/exemple_simple_bataille-navalle.c.i
-.PHONY : exemple_simple_bataille-navalle.c.i
+client.c.i:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/client.dir/build.make src/CMakeFiles/client.dir/client.c.i
+.PHONY : client.c.i
 
-exemple_simple_bataille-navalle.s: exemple_simple_bataille-navalle.c.s
+client.s: client.c.s
 
-.PHONY : exemple_simple_bataille-navalle.s
+.PHONY : client.s
 
 # target to generate assembly for a file
-exemple_simple_bataille-navalle.c.s:
-	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/exemple_simple_bataille-navalle.dir/build.make src/CMakeFiles/exemple_simple_bataille-navalle.dir/exemple_simple_bataille-navalle.c.s
-.PHONY : exemple_simple_bataille-navalle.c.s
+client.c.s:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/client.dir/build.make src/CMakeFiles/client.dir/client.c.s
+.PHONY : client.c.s
 
 helloworld.o: helloworld.c.o
 
@@ -993,6 +1023,33 @@ helloworld.c.s:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/helloworld.dir/build.make src/CMakeFiles/helloworld.dir/helloworld.c.s
 .PHONY : helloworld.c.s
 
+online_bataille-navale.o: online_bataille-navale.c.o
+
+.PHONY : online_bataille-navale.o
+
+# target to build an object file
+online_bataille-navale.c.o:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/online_bataille-navale.dir/build.make src/CMakeFiles/online_bataille-navale.dir/online_bataille-navale.c.o
+.PHONY : online_bataille-navale.c.o
+
+online_bataille-navale.i: online_bataille-navale.c.i
+
+.PHONY : online_bataille-navale.i
+
+# target to preprocess a source file
+online_bataille-navale.c.i:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/online_bataille-navale.dir/build.make src/CMakeFiles/online_bataille-navale.dir/online_bataille-navale.c.i
+.PHONY : online_bataille-navale.c.i
+
+online_bataille-navale.s: online_bataille-navale.c.s
+
+.PHONY : online_bataille-navale.s
+
+# target to generate assembly for a file
+online_bataille-navale.c.s:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/online_bataille-navale.dir/build.make src/CMakeFiles/online_bataille-navale.dir/online_bataille-navale.c.s
+.PHONY : online_bataille-navale.c.s
+
 return.o: return.c.o
 
 .PHONY : return.o
@@ -1019,6 +1076,33 @@ return.s: return.c.s
 return.c.s:
 	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/return.dir/build.make src/CMakeFiles/return.dir/return.c.s
 .PHONY : return.c.s
+
+server.o: server.c.o
+
+.PHONY : server.o
+
+# target to build an object file
+server.c.o:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/server.dir/build.make src/CMakeFiles/server.dir/server.c.o
+.PHONY : server.c.o
+
+server.i: server.c.i
+
+.PHONY : server.i
+
+# target to preprocess a source file
+server.c.i:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/server.dir/build.make src/CMakeFiles/server.dir/server.c.i
+.PHONY : server.c.i
+
+server.s: server.c.s
+
+.PHONY : server.s
+
+# target to generate assembly for a file
+server.c.s:
+	cd /home/user/Documents/programmation/sandbox && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/server.dir/build.make src/CMakeFiles/server.dir/server.c.s
+.PHONY : server.c.s
 
 test.o: test.c.o
 
@@ -2405,9 +2489,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... exemple_simple_bataille-navalle"
+	@echo "... client"
 	@echo "... helloworld"
+	@echo "... online_bataille-navale"
 	@echo "... return"
+	@echo "... server"
 	@echo "... test"
 	@echo "... tp1_exo1"
 	@echo "... tp1_exo10"
@@ -2459,15 +2545,21 @@ help:
 	@echo "... tp5_exo3"
 	@echo "... tp5_exo4"
 	@echo "... tp5_exo5"
-	@echo "... exemple_simple_bataille-navalle.o"
-	@echo "... exemple_simple_bataille-navalle.i"
-	@echo "... exemple_simple_bataille-navalle.s"
+	@echo "... client.o"
+	@echo "... client.i"
+	@echo "... client.s"
 	@echo "... helloworld.o"
 	@echo "... helloworld.i"
 	@echo "... helloworld.s"
+	@echo "... online_bataille-navale.o"
+	@echo "... online_bataille-navale.i"
+	@echo "... online_bataille-navale.s"
 	@echo "... return.o"
 	@echo "... return.i"
 	@echo "... return.s"
+	@echo "... server.o"
+	@echo "... server.i"
+	@echo "... server.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"

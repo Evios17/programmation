@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/exemple_simple_bataille-navalle.dir/exemple_simple_bataille-navalle.c.o -o ../build/exemple_simple_bataille-navalle  -lm 

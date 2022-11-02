@@ -6,13 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/home/user/Documents/programmation/sandbox/src/exemple_simple_bataille-navalle.c
+/home/user/Documents/programmation/sandbox/src/client.c
+stdio.h
+-
+errno.h
+-
+signal.h
+-
 stdio.h
 -
 stdlib.h
 -
-time.h
+strings.h
 -
-math.h
+netdb.h
+-
+sys/types.h
+-
+unistd.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/socket.h
 -
 

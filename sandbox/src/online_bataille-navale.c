@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-
+ 
 void initplateau(int plateau[][5])          //initialise le plateau
 {
     int ligne, colonne;
@@ -122,7 +122,7 @@ int main()
     int bateaux[3][2];
     int tir[2];
     int essais=0,touches=0;         // le jeu n'a pas commencé
-    printf ("\t**\n\t****Projet bataille navale****\n\t**");
+    printf ("\t******************************\n\t****Projet bataille navale****\n\t******************************");
     initplateau(plateau);           //initialise le plateau
     initbateau(bateaux);            // initialise les bateaux
     printf("\n");

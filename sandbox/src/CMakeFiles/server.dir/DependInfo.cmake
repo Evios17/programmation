@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/user/Documents/programmation/sandbox/src/exemple_simple_bataille-navalle.c" "/home/user/Documents/programmation/sandbox/src/CMakeFiles/exemple_simple_bataille-navalle.dir/exemple_simple_bataille-navalle.c.o"
+  "/home/user/Documents/programmation/sandbox/src/server.c" "/home/user/Documents/programmation/sandbox/src/CMakeFiles/server.dir/server.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
