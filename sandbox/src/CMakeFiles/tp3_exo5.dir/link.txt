@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/tp3_exo5.dir/tp3_exo5.c.o -o ../build/tp3_exo5  -lm 

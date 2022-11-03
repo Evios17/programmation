@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/tp4_exo14.dir/tp4_exo14.c.o -o ../build/tp4_exo14  -lm 

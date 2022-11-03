@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/online_bataille-navale.dir/online_bataille-navale.c.o -o ../build/online_bataille-navale  -lm 
