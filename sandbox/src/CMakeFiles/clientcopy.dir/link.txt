@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/clientcopy.dir/clientcopy.c.o -o ../build/clientcopy  -lm 
